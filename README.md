@@ -4,3 +4,8 @@ This dataset contains 119390 observations for a City Hotel and a Resort Hotel. E
 
 ## Dataset used
 - <a href="https://github.com/sangeetamaity/Hotel-Booking-and-Cancellations-Dashboard/blob/main/hotel%20booking%20cancellations.xlsx">Dataset</a>
+
+## Questions
+- Comapre the booking of City hotels and Resort hotels.
+- 
+- Which country has more booking and cancellation
